@@ -1,0 +1,11 @@
+{
+  "name": "shine-theme",
+  "version": "1.0.0",
+  "description": "<a href=\"https://themes.3rdwavemedia.com/bootstrap-templates/resume/shine-free-bootstrap-5-light-mode-resume-cv-template-for-developers/\" target=\"_blank\"><img src=\"https://themes.3rdwavemedia.com/wp-content/uploads/2023/06/free-bootstrap-resume-theme-shine-promo.jpg\" alt=\"Shine - Bootstrap 5 Light Mode Resume/CV Template for Software Developers\" /></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
